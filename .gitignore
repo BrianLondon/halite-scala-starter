@@ -1,0 +1,12 @@
+target/
+
+*.jar
+*.zip
+
+*.tmp
+*.hlt
+*.log
+
+halite
+
+.idea/
